@@ -70,6 +70,8 @@
 
 #ithome
 127.0.0.1 android.ithome.com
+127.0.0.1 api.ithome.com
+127.0.0.1 apiquan.ithome.com
 127.0.0.1 digi.ithome.com
 127.0.0.1 discovery.ithome.com
 127.0.0.1 dyn.ithome.com
@@ -80,12 +82,14 @@
 127.0.0.1 it.ithome.com
 127.0.0.1 ithome.com
 127.0.0.1 lapin.ithome.com
+127.0.0.1 live.ithome.com
 127.0.0.1 m.ithome.com
 127.0.0.1 mac.ithome.com
 127.0.0.1 mobile.ithome.com
 127.0.0.1 next.ithome.com
 127.0.0.1 quan.ithome.com
 127.0.0.1 soft.ithome.com
+127.0.0.1 wap.ithome.com
 127.0.0.1 win7.ithome.com
 127.0.0.1 win8.ithome.com
 127.0.0.1 win10.ithome.com
