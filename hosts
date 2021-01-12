@@ -1,5 +1,7 @@
 #ads
+127.0.0.1 10maimai.com
 127.0.0.1 at4.doubanio.com
+127.0.0.1 baidu.10maimai.com
 127.0.0.1 baidushou.fkjiadexing.com
 127.0.0.1 cdn2.jianshu.io
 127.0.0.1 deeplacer.com
@@ -27,6 +29,9 @@
 127.0.0.1 wx.yubangsmart.com
 127.0.0.1 yun.lvehaisen.com
 127.0.0.1 yqs.kfweo2.com
+
+#ChinaMobile
+223.5.5.5 117.136.185.20
 
 #tbs
 127.0.0.1 soft.tbs.imtt.qq.com
